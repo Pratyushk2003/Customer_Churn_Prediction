@@ -2,7 +2,7 @@
 
 1. Data Preprocessing:
 
-Load the provided dataset and perform initial data exploration.
+ Load the provided dataset and perform initial data exploration.
 
  Handle missing data and outliers.
 
